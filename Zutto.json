@@ -1,0 +1,289 @@
+{
+  "title": "Zutto Otokonoko da to Omotte ita Gakitaishou ga Onnanoko deshita",
+  "description": "She was a tomboy... big emphasis on &quot;WAS&quot;.",
+  "artist": "macharge",
+  "author": "macharge",
+  "cover": "https://i.imgur.com/gMm1iPk.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Shoshinsha": "/proxy/api/imgur/chapter/aDCiBLU/"
+      },
+      "last_updated": "1621532788"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Shoshinsha": "/proxy/api/imgur/chapter/4COts29/"
+      },
+      "last_updated": "1621532819"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Shoshinsha": "/proxy/api/imgur/chapter/E0IqkDP/"
+      },
+      "last_updated": "1621532841"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "Corivas": "/proxy/api/imgur/chapter/fS4Vvjy/"
+      },
+      "last_updated": "1621532865"
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "Shoshinsha": "/proxy/api/imgur/chapter/LocXt1t/"
+      },
+      "last_updated": "1621532878"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "Shoshinsha": "/proxy/api/imgur/chapter/yhAPAiZ/"
+      },
+      "last_updated": "1621532898"
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "Melonpan Translation": "/proxy/api/imgur/chapter/F8pxjy2/"
+      },
+      "last_updated": "1621532924"
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "Melonpan Translation": "/proxy/api/imgur/chapter/rDYS0jW/"
+      },
+      "last_updated": "1621532936"
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "1",
+      "groups": {
+        "Melonpan Translation": "/proxy/api/imgur/chapter/70X0QAC/"
+      },
+      "last_updated": "1621532951"
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "1",
+      "groups": {
+        "Melonpan Translation": "/proxy/api/imgur/chapter/NmDgW1D/"
+      },
+      "last_updated": "1621532965"
+    },
+    "11": {
+      "title": "Chapter 11",
+      "volume": "1",
+      "groups": {
+        "Melonpan Translation": "/proxy/api/imgur/chapter/9gzGLeo/"
+      },
+      "last_updated": "1621532977"
+    },
+    "12": {
+      "title": "Chapter 12",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/Ftc4Vfj/"
+      },
+      "last_updated": "1621532990"
+    },
+    "13": {
+      "title": "Chapter 13",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/67cxphG/"
+      },
+      "last_updated": "1621533018"
+    },
+    "14": {
+      "title": "Chapter 14",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/S9YQf7X/"
+      },
+      "last_updated": "1621533047"
+    },
+    "15": {
+      "title": "Chapter 15",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/ye4fSI3/"
+      },
+      "last_updated": "1621533147"
+    },
+    "16": {
+      "title": "Chapter 16",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/1npjBXF/"
+      },
+      "last_updated": "1621533179"
+    },
+    "17": {
+      "title": "Chapter 17",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/WMRKVcg/"
+      },
+      "last_updated": "1621533209"
+    },
+    "18": {
+      "title": "Chapter 18",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/KU07iPe/"
+      },
+      "last_updated": "1621533288"
+    },
+    "19": {
+      "title": "Chapter 19",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/S3R48mM/"
+      },
+      "last_updated": "1621533321"
+    },
+    "20": {
+      "title": "Chapter 20",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/jF1JDKf/"
+      },
+      "last_updated": "1621533405"
+    },
+    "21": {
+      "title": "Chapter 21",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/oJ0z4ya/"
+      },
+      "last_updated": "1621533431"
+    },
+    "22": {
+      "title": "Chapter 22",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/w41T26a/"
+      },
+      "last_updated": "1621533534"
+    },
+    "23": {
+      "title": "Chapter 23",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/dVhML4X/"
+      },
+      "last_updated": "1621533650"
+    },
+    "24": {
+      "title": "Chapter 24",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/6bcZj3K/"
+      },
+      "last_updated": "1621533676"
+    },
+    "25": {
+      "title": "Chapter 25",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/MENBo1j/"
+      },
+      "last_updated": "1621533701"
+    },
+    "26": {
+      "title": "Chapter 26",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/AzEklB3/"
+      },
+      "last_updated": "1621533726"
+    },
+    "27": {
+      "title": "Chapter 27",
+      "volume": "1",
+      "groups": {
+        "ptg_": "/proxy/api/imgur/chapter/XSnRlR4/"
+      },
+      "last_updated": "1621533747"
+    },
+    "28": {
+      "title": "Chapter 28",
+      "volume": "1",
+      "groups": {
+        "ptg_": "/proxy/api/imgur/chapter/ngUH2ij/"
+      },
+      "last_updated": "1621533802"
+    },
+    "29": {
+      "title": "Chapter 29",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/RRnrlCQ/"
+      },
+      "last_updated": "1621533818"
+    },
+    "30": {
+      "title": "Chapter 30",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/d3a26yh/"
+      },
+      "last_updated": "1621533844"
+    },
+    "31": {
+      "title": "Chapter 31",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/KkycJOA/"
+      },
+      "last_updated": "1621533910"
+    },
+    "31.5": {
+      "title": "Announcement",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/cerlYzX/"
+      },
+      "last_updated": "1621533946"
+    },
+    "32": {
+      "title": "the kid leader I've always thought was a boy has reached 10 months",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/VEmrckI/"
+      },
+      "last_updated": "1621533971"
+    },
+    "33": {
+      "title": "The kid leader I've always thought was a boy has become a mom",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/CBz0eQ3/"
+      },
+      "last_updated": "1621534004"
+    },
+    "34": {
+      "title": "the kid leader I've always thought was a boy\u2019s child also turns out to be a strong-willed girl.",
+      "volume": "1",
+      "groups": {
+        "Canes Venatici & Lvl. 1 Scans": "/proxy/api/imgur/chapter/qkJFqoF/"
+      },
+      "last_updated": "1621534031"
+    }
+  }
+}
