@@ -1,0 +1,25 @@
+{
+  "title": "My cuteness isn’t understood by Kuroiwa Medaka",
+  "description": "My cuteness isn’t understood by Kuroiwa Medaka",
+  "artist": "",
+  "author": "",
+  "cover": "https://cdn.discordapp.com/attachments/844276863128174612/846781610077454437/4e4673613d8d45da5b4608e5950707d7f0bb61af_s1_n2.png",
+  "chapters": {
+    "2": {
+      "title": "ch 2",
+      "volume": "1",
+      "groups": {
+        "Skylla Scans": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1622025369"
+    },
+    "1": {
+      "title": "ch 1",
+      "volume": "1",
+      "groups": {
+        "Skylla Scans": "/proxy/api/imgur/chapter//"
+      },
+      "last_updated": "1622025369"
+    }
+  }
+}
